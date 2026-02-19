@@ -1,4 +1,4 @@
-# 🤝 Teammate: Team Sports Matching & Venue Reservation Platform
+# ⚾️ Teammate: Team Sports Matching & Venue Reservation Platform
 
 > ### **TL;DR**
 > - Built a **backend web service** for team sports matching and venue reservation
