@@ -8,6 +8,10 @@
 
 <br>
 
+<img width="1920" height="1080" alt="Teammate-thumbnail" src="https://github.com/user-attachments/assets/ef3e2fbc-dc09-49f7-8f5f-cab7dbcb4bc0" />
+
+<br>
+
 This repository contains the **backend implementation of Teammate**, a web service designed to support sports clubs and communities by simplifying **team matching and game venue coordination**.  
 The project focuses on building a scalable and maintainable backend system using a clean MVC architecture, well-defined REST APIs, and production-oriented deployment practices.
 
